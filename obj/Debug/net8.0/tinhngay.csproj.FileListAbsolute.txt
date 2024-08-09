@@ -1,0 +1,14 @@
+E:\tinhngay\bin\Debug\net8.0\tinhngay.exe
+E:\tinhngay\bin\Debug\net8.0\tinhngay.deps.json
+E:\tinhngay\bin\Debug\net8.0\tinhngay.runtimeconfig.json
+E:\tinhngay\bin\Debug\net8.0\tinhngay.dll
+E:\tinhngay\bin\Debug\net8.0\tinhngay.pdb
+E:\tinhngay\obj\Debug\net8.0\tinhngay.GeneratedMSBuildEditorConfig.editorconfig
+E:\tinhngay\obj\Debug\net8.0\tinhngay.AssemblyInfoInputs.cache
+E:\tinhngay\obj\Debug\net8.0\tinhngay.AssemblyInfo.cs
+E:\tinhngay\obj\Debug\net8.0\tinhngay.csproj.CoreCompileInputs.cache
+E:\tinhngay\obj\Debug\net8.0\tinhngay.dll
+E:\tinhngay\obj\Debug\net8.0\refint\tinhngay.dll
+E:\tinhngay\obj\Debug\net8.0\tinhngay.pdb
+E:\tinhngay\obj\Debug\net8.0\tinhngay.genruntimeconfig.cache
+E:\tinhngay\obj\Debug\net8.0\ref\tinhngay.dll
